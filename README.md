@@ -1,3 +1,9 @@
+# Bubble?
+
+> An [economic bubble](https://en.wikipedia.org/wiki/Economic_bubble) (also called a speculative bubble or a financial bubble) is a period when current asset prices greatly exceed their intrinsic valuation, being the valuation that the underlying long-term fundamentals justify. Bubbles can be caused by overly optimistic projections about the scale and sustainability of growth (e.g. dot-com bubble), and/or by the belief that intrinsic valuation is no longer relevant when making an investment (e.g. Tulip mania).
+
+Generative AI is in an economic bubble? Some people, including me, think so. But nothing makes sense anymore...
+
 # Articles about Generative AI
 
 Manually curated list of articles related to GenAI.
