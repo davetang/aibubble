@@ -4,7 +4,7 @@
 
 Generative AI is in an economic bubble? Some people, including me, think so. But nothing makes sense anymore...
 
-# Articles about Generative AI
+# News articles
 
 Manually curated list of articles related to GenAI.
 
@@ -17,7 +17,15 @@ Manually curated list of articles related to GenAI.
 * 2025-05-06 - [FYI: Most AI spending driven by FOMO, not ROI, CEOs tell IBM, LOL](https://www.theregister.com/2025/05/06/ibm_ai_investments/)
 * 2023-06-04 - [The LLMentalist Effect: how chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
 
-## Websites
+# Academic articles
+
+* 2025-06-10 - [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
+
+# Books
+
+* 2025 - [THE AI CON](https://thecon.ai/)
+
+# Websites
 
 * [Pivot to AI](https://pivot-to-ai.com/)
 * [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/)
