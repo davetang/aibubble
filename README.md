@@ -4,6 +4,10 @@
 
 Generative AI is in an economic bubble? Some people, including me, think so. But nothing makes sense anymore...
 
+# Why so negative?
+
+I think there's already enough (and probably too much) coverage on the pros of (Generative) AI and I think it's important to get both sides of the story.
+
 # News
 
 Manually curated list of articles related to GenAI.
