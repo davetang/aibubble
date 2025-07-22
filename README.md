@@ -12,6 +12,7 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
+* 2025-07-21 - [Vibe coding service Replit deleted user’s production database, faked data, told fibs galore](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 * 2025-07-11 - [AI coding tools make developers slower but they think they're faster, study finds](https://www.theregister.com/2025/07/11/ai_code_tools_slow_down/)
 * 2025-06-29 - [AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
 * 2025-06-25 - [CloudBees CEO says customers are slowing down on 'black box' code from AIs](https://www.theregister.com/2025/06/25/cloudbees_ceo_interview_ai)
