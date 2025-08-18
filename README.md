@@ -12,7 +12,8 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
-* 2025-08-18 - [Doctors get dopey if they rely too much on AI, study suggests](https://www.theregister.com/2025/08/13/doctors_risk_being_deskilled_by_rely_on_ai/)
+* 2025-08-13 - [OpenAI's GPT-5 looks less like AI evolution and more like cost cutting](https://www.theregister.com/2025/08/13/gpt_5_cost_cutting/)
+* 2025-08-13 - [Doctors get dopey if they rely too much on AI, study suggests](https://www.theregister.com/2025/08/13/doctors_risk_being_deskilled_by_rely_on_ai/)
 * 2025-07-24 - [Mistral AI environmental report confirms AI is a hungry, thirsty beast](https://www.theregister.com/2025/07/24/mistral_environmental_report_ai_cost/)
 * 2025-07-21 - [Vibe coding service Replit deleted user’s production database, faked data, told fibs galore](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/)
 * 2025-07-16 - [Ex-OpenAI engineer pulls the curtain back on a chaotic hot mess](https://www.theregister.com/2025/07/16/exopenai_engineers/); see "Reflections on OpenAI"
