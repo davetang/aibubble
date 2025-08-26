@@ -12,6 +12,7 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
+* 2025-08-25 - [The air is hissing out of the overinflated AI balloon](https://www.theregister.com/2025/08/25/overinflated_ai_balloon/)
 * 2025-08-18 - [MIT report: 95% of generative AI pilots at companies are failing](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
 * 2025-08-13 - [OpenAI's GPT-5 looks less like AI evolution and more like cost cutting](https://www.theregister.com/2025/08/13/gpt_5_cost_cutting/)
 * 2025-08-13 - [Doctors get dopey if they rely too much on AI, study suggests](https://www.theregister.com/2025/08/13/doctors_risk_being_deskilled_by_rely_on_ai/)
