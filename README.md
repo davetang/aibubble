@@ -12,6 +12,7 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
+* 2025-09-23 - [AI promised to revolutionize productivity. Instead, ‘workslop’ is a giant time suck and the scourge of the 21st century office, Stanford warns](https://fortune.com/2025/09/23/ai-workslop-workshop-workplace-communication/)
 * 2025-09-23 - [AI coding hype overblown, Bain shrugs](https://www.theregister.com/2025/09/23/developers_genai_little_productivity_gains/)
 * 2025-08-25 - [The air is hissing out of the overinflated AI balloon](https://www.theregister.com/2025/08/25/overinflated_ai_balloon/)
 * 2025-08-18 - [MIT report: 95% of generative AI pilots at companies are failing](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/)
