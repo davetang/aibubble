@@ -12,6 +12,7 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
+* 2025-12-24 - [AI faces closing time at the cash buffet](https://www.theregister.com/2025/12/24/ai_spending_cooling_off)
 * 2025-10-08 - [Bank of England smells hint of dotcom bubble 2.0 in AI froth](https://www.theregister.com/2025/10/08/boe_dotcom_bubble_ai/)
 * 2025-10-03 - [AI devs close to scraping bottom of data barrel](https://www.theregister.com/2025/10/03/ai_training_requires_more_data/)
 * 2025-09-29 - [Oracle will have to borrow at least $25B a year to fund AI fantasy, says analyst](https://www.theregister.com/2025/09/29/oracle_ai_debt/)
