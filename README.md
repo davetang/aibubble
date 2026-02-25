@@ -12,6 +12,7 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
+* 2026-02-19 - [AI agents can't teach themselves new tricks – only people can](https://www.theregister.com/2026/02/19/ai_agents_cant_teach_themselves/)
 * 2025-12-30 - [When the AI bubble pops, Nvidia becomes the most important software company overnight](https://www.theregister.com/2025/12/30/how_nvidia_survives_ai_bubble_pop/)
 * 2025-12-24 - [AI faces closing time at the cash buffet](https://www.theregister.com/2025/12/24/ai_spending_cooling_off)
 * 2025-10-08 - [Bank of England smells hint of dotcom bubble 2.0 in AI froth](https://www.theregister.com/2025/10/08/boe_dotcom_bubble_ai/)
