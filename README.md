@@ -12,6 +12,7 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
+* 2026-05-16 - [AI-generated code is 'pain waiting to happen'](https://www.theregister.com/ai-ml/2026/05/16/ai-generated-code-is-pain-waiting-to-happen/5241574)
 * 2026-04-29 - [Yet another experiment proves it's too damn simple to poison large language models](https://www.theregister.com/2026/04/29/poisoning_large_language_models_6nimmt/)
 * 2026-03-26 - [Welcome to a Multidimensional Economic Disaster](https://archive.md/v6kJs#selection-607.0-607.47)
 * 2026-03-17 - [AI still doesn't work very well, businesses are faking it, and a reckoning is coming](https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/)
