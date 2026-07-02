@@ -50,6 +50,7 @@ Manually curated list of articles related to GenAI.
 
 # Research
 
+* 2026-04-12 - [Ten takeaways from the AI Engineering Report 2026: The Acceleration Whiplash](https://www.faros.ai/blog/ai-acceleration-whiplash-takeaways)
 * 2025-06-10 - [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872); associated [website](https://www.brainonllm.com/)
 * 2025-04-25 - [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers](https://dl.acm.org/doi/10.1145/3706598.3713778)
 * 2024-12-18 - [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)
