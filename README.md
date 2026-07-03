@@ -12,6 +12,7 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
+* 2026-07-01 - [Godot says bye bye AI, bans vibe-coded contributions](https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344)
 * 2026-06-29 - [How the AI bubble could pop and take down the global economy, according to the BIS](https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793)
 * 2026-06-24 - [AI coding agents could soon cost more than the developers using them](https://www.theregister.com/ai-and-ml/2026/06/24/ai-coding-agents-could-soon-cost-more-than-the-developers-using-them/5260864)
 * 2026-05-16 - [AI-generated code is 'pain waiting to happen'](https://www.theregister.com/ai-ml/2026/05/16/ai-generated-code-is-pain-waiting-to-happen/5241574)
