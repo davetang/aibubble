@@ -12,6 +12,7 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
+* 2026-07-06 - [Even banks and hyperscalers are now sounding the alarm about the AI bubble](https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123)
 * 2026-07-03 - [AI bills are baffling the C-suite after shift to usage-based pricing](https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383)
 * 2026-07-01 - [Godot says bye bye AI, bans vibe-coded contributions](https://www.theregister.com/ai-and-ml/2026/07/01/godot-says-bye-bye-ai-bans-vibe-coded-contributions/5265344)
 * 2026-06-29 - [How the AI bubble could pop and take down the global economy, according to the BIS](https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793)
