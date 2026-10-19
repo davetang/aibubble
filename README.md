@@ -12,6 +12,8 @@ I think there's already enough (and probably too much) coverage on the pros of (
 
 Manually curated list of articles related to GenAI.
 
+* 2026-10-13 - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
+* 2026-10-13 - [AI bubble could burst and take global economy with it, IMF warns](https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781)
 * 2026-07-06 - [Even banks and hyperscalers are now sounding the alarm about the AI bubble](https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123)
 * 2026-07-03 - [AI bills are baffling the C-suite after shift to usage-based pricing](https://www.theregister.com/ai-and-ml/2026/07/03/ai-bills-are-baffling-the-c-suite-after-shift-to-usage-based-pricing/5266383)
 * 2026-07-01 - [Oracle outlines all the ways it could lose the farm it bet on AI](https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438)
